@@ -2,7 +2,7 @@
 
 Adult money clarity and wellness visits for iPhone and Android. ChangeCoin is a product name, not a cryptocurrency.
 
-The running app is the Grok build. This repository is the product home. App source has not been committed yet.
+The app source is in this repository. It is a web app that installs on iPhone and Android.
 
 ## What the app includes
 
