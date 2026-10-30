@@ -1,3 +1,7 @@
+**Languages:** [**English**](ethics.md) · [Español](es/ethics.md) · [Français](fr/ethics.md) · [Deutsch](de/ethics.md) · [Português (Brasil)](pt-BR/ethics.md) · [Italiano](it/ethics.md) · [简体中文](zh-CN/ethics.md) · [繁體中文](zh-TW/ethics.md) · [日本語](ja/ethics.md) · [한국어](ko/ethics.md) · [العربية](ar/ethics.md) · [हिन्दी](hi/ethics.md) · [Русский](ru/ethics.md) · [Tiếng Việt](vi/ethics.md) · [Türkçe](tr/ethics.md) · [Bahasa Indonesia](id/ethics.md) · [Polski](pl/ethics.md) · [Nederlands](nl/ethics.md) · [Українська](uk/ethics.md) · [Filipino](fil/ethics.md) · [Kiswahili](sw/ethics.md)
+
+English is the source of truth. Other languages are machine-assisted. [How to update translations](TRANSLATIONS.md).
+
 # Change Coin code of ethics
 
 Change Coin is founded on four principles: transparency, emotional intelligence, destigmatizing mental health, and perseverance.
