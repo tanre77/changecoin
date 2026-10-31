@@ -1,3 +1,7 @@
+**Languages:** [**English**](roadmap.md) · [Español](es/roadmap.md) · [Français](fr/roadmap.md) · [Deutsch](de/roadmap.md) · [Português (Brasil)](pt-BR/roadmap.md) · [Italiano](it/roadmap.md) · [简体中文](zh-CN/roadmap.md) · [繁體中文](zh-TW/roadmap.md) · [日本語](ja/roadmap.md) · [한국어](ko/roadmap.md) · [العربية](ar/roadmap.md) · [हिन्दी](hi/roadmap.md) · [Русский](ru/roadmap.md) · [Tiếng Việt](vi/roadmap.md) · [Türkçe](tr/roadmap.md) · [Bahasa Indonesia](id/roadmap.md) · [Polski](pl/roadmap.md) · [Nederlands](nl/roadmap.md) · [Українська](uk/roadmap.md) · [Filipino](fil/roadmap.md) · [Kiswahili](sw/roadmap.md)
+
+English is the source of truth. Other languages are machine-assisted. [How to update translations](TRANSLATIONS.md).
+
 # Roadmap
 
 Written for a late-2025 start. Status as of these notes: planning, not shipped.

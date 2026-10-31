@@ -1,3 +1,7 @@
+**Languages:** [**English**](team.md) · [Español](es/team.md) · [Français](fr/team.md) · [Deutsch](de/team.md) · [Português (Brasil)](pt-BR/team.md) · [Italiano](it/team.md) · [简体中文](zh-CN/team.md) · [繁體中文](zh-TW/team.md) · [日本語](ja/team.md) · [한국어](ko/team.md) · [العربية](ar/team.md) · [हिन्दी](hi/team.md) · [Русский](ru/team.md) · [Tiếng Việt](vi/team.md) · [Türkçe](tr/team.md) · [Bahasa Indonesia](id/team.md) · [Polski](pl/team.md) · [Nederlands](nl/team.md) · [Українська](uk/team.md) · [Filipino](fil/team.md) · [Kiswahili](sw/team.md)
+
+English is the source of truth. Other languages are machine-assisted. [How to update translations](TRANSLATIONS.md).
+
 # Team
 
 Roles from the December 2025 roster. Pay, hours, and personal notes stay in the Drive doc.

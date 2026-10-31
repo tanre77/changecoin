@@ -1,3 +1,7 @@
+**Languages:** [**English**](product.md) · [Español](es/product.md) · [Français](fr/product.md) · [Deutsch](de/product.md) · [Português (Brasil)](pt-BR/product.md) · [Italiano](it/product.md) · [简体中文](zh-CN/product.md) · [繁體中文](zh-TW/product.md) · [日本語](ja/product.md) · [한국어](ko/product.md) · [العربية](ar/product.md) · [हिन्दी](hi/product.md) · [Русский](ru/product.md) · [Tiếng Việt](vi/product.md) · [Türkçe](tr/product.md) · [Bahasa Indonesia](id/product.md) · [Polski](pl/product.md) · [Nederlands](nl/product.md) · [Українська](uk/product.md) · [Filipino](fil/product.md) · [Kiswahili](sw/product.md)
+
+English is the source of truth. Other languages are machine-assisted. [How to update translations](TRANSLATIONS.md).
+
 # Change Coin — product
 
 Mission: help people see their life at a glance. Unify the tools they already use so anyone who wants to get better can see clearly and act with purpose.
